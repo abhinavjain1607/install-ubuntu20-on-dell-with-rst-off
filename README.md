@@ -20,5 +20,6 @@ nvidia
 nvidia-drm
 nvidia-modeset
 
+13. Reboot with disable secure boot
 https://forums.developer.nvidia.com/t/black-screen-after-install-of-nvidia-driver-ubuntu/109312/4
 https://forums.developer.nvidia.com/t/black-screen-after-install-of-nvidia-driver-ubuntu/109312/4

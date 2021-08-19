@@ -1,7 +1,9 @@
 # install-ubuntu20-on-dell-with-rst-off
 
 1. Make bootable ubuntu
-  Refer https://askubuntu.com/questions/1233623/workaround-to-install-ubuntu-20-04-with-intel-rst-systems for the next steps
+
+#Refer https://askubuntu.com/questions/1233623/workaround-to-install-ubuntu-20-04-with-intel-rst-systems for the next steps
+
 2. Change the settings in windows to open in safe mode
 3. Go to bios and change the SATA operation to ACHI
 4. Open the windows in safe mode
